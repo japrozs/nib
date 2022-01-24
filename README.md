@@ -19,7 +19,7 @@ You can interact with `Nib` through its `REPL` using commands. The commands are 
 
 ## Roadmap
 
--   [ ] -   Finish all commands
+-   [ ] -   Complete all commands
 -   [ ] -   Create a server to interact with the API
 -   [ ] -   Setup an authentication system
 -   [ ] -   More data types
